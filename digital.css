@@ -1,0 +1,16 @@
+#clock{
+    background-color: black;
+    color: blue;
+    justify-content: center;
+    justify-self: center;
+    image-rendering: inherit;
+    padding: 100px;
+    padding-right: 600px;
+    padding-left: 600px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    height: 1px;
+    block-size: 200px;
+    background-image: url(IMG-20230816-WA0072.jpg);
+    
+}
